@@ -5,11 +5,16 @@ I am a backend developer who like help people and bussiness by convey value in t
 🔭 Projects.
 - I like to collaborate in social projects in my free time. Recently start alongside an interdisciplinary team an project to prevent sexual harassment of women.
 - I enjoy do a technical test about a centralized clinical history software:
-  - In the link show desing of project, wich in free times update code.
+  - In the link show desing of project, wich in free times update code, you can comment about it too.
   - https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing
   
- 🌱 I´m currently Learning
-![Javascript](https://img.shields.io/badge/Javascript-3DDC84?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+ 🌱 I´m currently Learning:
+ 
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![Node.js](https://img.shields.io/badge/Nodejs-3DDC84?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)</br>
+
+👯 I’m looking to collaborate with a great developers team to build amazing software.
+
 <!--
 **henrymorenoespitia/henrymorenoespitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
