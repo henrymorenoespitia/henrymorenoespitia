@@ -8,10 +8,15 @@ I am a backend developer who like help people and bussiness by convey value in t
   - In the link show desing of project, wich in free times update code, you can comment about it too.
   - https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing
   
- 🌱 I´m currently Learning:
+ 💼 I'm work with this technologies:
  
-![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+ ![Flask](https://img.shields.io/badge/Flask-3DDC84?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)</br>
+ ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+ 
+ 🌱 I´m currently Learning:
+
 ![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)</br>
+![React](https://img.shields.io/badge/React-3DDC84?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 
 👯 I’m looking to collaborate with a great developers team to build amazing software.
 
