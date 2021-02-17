@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a backend developer who like help people and bussiness by convey value in their operations desing and code software
+
 <!--
 **henrymorenoespitia/henrymorenoespitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
