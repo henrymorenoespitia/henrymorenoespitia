@@ -11,7 +11,7 @@ I am a backend developer who like help people and bussiness by convey value in t
  🌱 I´m currently Learning:
  
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
-![Node.js](https://img.shields.io/badge/Nodejs-3DDC84?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)</br>
+![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)</br>
 
 👯 I’m looking to collaborate with a great developers team to build amazing software.
 
