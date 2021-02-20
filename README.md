@@ -3,7 +3,7 @@
 I am a backend developer who like help people and bussiness by convey value in their operations desing and code software.
 
 🔭 Projects.
-- I like to collaborate in social projects in my free time. Recently start alongside an interdisciplinary team an project to prevent sexual harassment of women.
+- I like to collaborate in social projects in my free time. Recently start alongside an interdisciplinary team a project to prevent sexual harassment of women.
 - I enjoy do a technical test about a centralized clinical history software:
   - In the link show desing of project, wich in free times update code, you can comment about it too.
   - https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing
