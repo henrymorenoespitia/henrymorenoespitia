@@ -8,7 +8,7 @@ I am a backend developer who like help people and bussiness by convey value in t
   - In the link show desing of project, wich in free times update code, you can comment about it too.
   - https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing
   
- 💼 I'm work with this technologies:
+ 💼 I'm work with this technologies in presonal projects to practice thing i learning:
  
  ![Flask](https://img.shields.io/badge/Flask-3DDC84?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)</br>
  ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
