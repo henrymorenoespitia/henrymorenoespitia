@@ -2,8 +2,6 @@
 
 I am a backend developer who like help people and bussiness by convey value in their operations desing and code software.
 
-👯 I’m looking to collaborate with a great developers team to build amazing software.
-
 🔭 Projects.
 - I like to collaborate in social projects in my free time. Recently start alongside an interdisciplinary team an project to prevent sexual harassment of women.
 - I enjoy do a technical test about a centralized clinical history software:
@@ -20,7 +18,7 @@ I am a backend developer who like help people and bussiness by convey value in t
 ![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)</br>
 ![React](https://img.shields.io/badge/React-3DDC84?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 
-
+👯 I’m looking to collaborate with a great developers team to build amazing software.
 
 <!--
 **henrymorenoespitia/henrymorenoespitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
