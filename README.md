@@ -11,10 +11,11 @@ I am a backend developer who like help people and bussiness by convey value in t
  💼 I'm developing with this technologies in presonal projects to practice that i learning:
  
  ![Flask](https://img.shields.io/badge/Flask-3DDC84?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)</br>
- ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+
  
  🌱 I´m currently Learning:
-
+ 
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 ![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)</br>
 ![React](https://img.shields.io/badge/React-3DDC84?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 
