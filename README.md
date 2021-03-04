@@ -4,9 +4,10 @@ I am a backend developer who like help people and bussiness by convey value in t
 
 🔭 Projects.
 - I like to collaborate in social projects in my free time. Recently start alongside an interdisciplinary team a project to prevent sexual harassment of women.
-- I enjoy do a technical test about a centralized clinical history software:
+- I enjoy do a technical test about a centralized clinical history software, is a web service to develop RESTful APIs using Flask:
   - In the link show desing of project, wich in free times update code, you can comment about it too.
-  - https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing
+   - https://drive.google.com/drive/folders/1j_naWb5ZCHJ5z8_bVtZ9DEXNaQOfOqPP?usp=sharing
+   - https://github.com/henrymorenoespitia/clinical_history_test_learning
   
  💼 I'm developing with this technologies in presonal projects to practice that i learning:
  
