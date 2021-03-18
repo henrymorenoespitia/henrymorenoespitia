@@ -17,8 +17,8 @@ I am a backend developer who like help people and bussiness by convey value in t
  🌱 I´m currently Learning:
  
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
-![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)</br>
-![React](https://img.shields.io/badge/React-3DDC84?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
++ enforce programming basis such as arquitectural and design patterns, data structures, alogorithms.
+
 
 👯 I’m looking to collaborate with a great developers team to build amazing software.
 
@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)</br>
+- ![React](https://img.shields.io/badge/React-3DDC84?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 -->
