@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a backend developer who like help people and bussiness by convey value in their operations desing and code software.
+I am a backend developer with a innovation aproache who like help people and bussiness by convey value in their operations desing and code software.
 
 🔭 Projects.
 - I like to collaborate in social projects in my free time. Recently start alongside an interdisciplinary team a project to prevent sexual harassment of women.
