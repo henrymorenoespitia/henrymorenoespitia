@@ -15,7 +15,7 @@ I am a backend developer with a innovation aproache who like help people and bus
 
  
  🌱 I´m currently Learning:
- 
+ ![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 + enforce programming basis such as arquitectural and design patterns, data structures, alogorithms.
 
