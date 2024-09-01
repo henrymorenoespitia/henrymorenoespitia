@@ -11,6 +11,7 @@ I am a software engineer with a innovation aproache who like to create new thing
   
  💼 🧪 I'm developing with this technologies in presonal projects to practice that i learning:
 ![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
++ enforce programming basis such as arquitectural and design patterns, data structures, alogorithms.
  
 🧱 I have basic knowledge on:
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
@@ -18,8 +19,8 @@ I am a software engineer with a innovation aproache who like to create new thing
 
  
  🌱 I´m currently Learning:
- 
-+ enforce programming basis such as arquitectural and design patterns, data structures, alogorithms.
+ ![Golang](https://img.shields.io/badge/Golang-3DDC84?style=for-the-badge&logo=golang&logoColor=white&labelColor=101010)</br>
+
 
 
 👯 I’m looking to collaborate with a great developers team to build amazing software.
