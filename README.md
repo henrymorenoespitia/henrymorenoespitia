@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am a Software Product Engineer with a innovation aproach who like to create new things and look for processes to need to improveed by convey value in operations.
+Work in productivity projects by using Generative AI.
 
 🔭 Projects.
 - I like to collaborate in social projects in my free time. I was started alongside an interdisciplinary team a project to prevent sexual harassment of women.
